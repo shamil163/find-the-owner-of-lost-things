@@ -1,5 +1,5 @@
 {
-  "name": "lost-and-found",
+  "name": "find-the-owner-of-lost-things",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com"
+    "url": "git+https://github.com/shamil163/find-the-owner-of-lost-things"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com"
+    "url": "https://github.com/shamil163/find-the-owner-of-lost-things"
   },
-  "homepage": "https://github.com",
+  "homepage": "https://github.com/shamil163/find-the-owner-of-lost-things",
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "dotenv": "^10.0.0",
